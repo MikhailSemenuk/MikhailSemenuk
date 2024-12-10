@@ -14,7 +14,7 @@
 
 ### About me
 - 🌱 I’m currently learning **React**
-- 📫 Reach me by [LinkedIn](linkedin-link).
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/mikhail-semianiuk/).
 - 🐈 I have two cats who help me code by adding "creative" bugs.
 - 🌍 I speak Belarusian and Russian as my native languages, English at a B2 level, and Polish at a B1 level.
 
